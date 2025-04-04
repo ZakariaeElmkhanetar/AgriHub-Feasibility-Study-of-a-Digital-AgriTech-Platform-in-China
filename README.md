@@ -6,12 +6,12 @@ This report was developed as part of the **New Venture Creation module** to eval
 - **Part A:** Global market feasibility and innovation potential  
 - **Part B:** In-depth entrepreneurial ecosystem analysis using the **Isenberg Model**, applied to **China** as the proposed country of launch
 # Report Structure
-### Part A – Feasibility Study (600 words)
+### Part A – Feasibility Study
 This section highlights:
 - **Global Market Perspectives**: The scalability and international appeal of AgriHub  
 - **Innovation Highlights**: Unique digital features and competitive advantages  
 - **Leveraging Global Trends**: How AgriHub aligns with global agricultural and digital transformation trends
-### Part B – Entrepreneurial Ecosystem Analysis (2000 words)
+### Part B – Entrepreneurial Ecosystem Analysis
 Using the **Isenberg Model of Entrepreneurial Ecosystems**, this section evaluates:
 - China’s support structures for AgriTech ventures (e.g., funding, policy, incubation)
 - Market conditions, access to talent, and infrastructure
