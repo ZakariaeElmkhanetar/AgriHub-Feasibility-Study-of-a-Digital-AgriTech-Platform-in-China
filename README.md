@@ -1,4 +1,4 @@
-# AgriHub – Empowering Agriculture Through Technology
+# AgriHub: Empowering Agriculture Through Technology
 # Overview
 This repository contains the **Feasibility Study and New Venture Report** for **AgriHub**, a next-generation AgriTech platform I designed to digitally transform the agricultural sector. The platform aims to connect farmers with bulk buyers, optimize agricultural logistics, and facilitate machinery rental through a unified digital ecosystem powered by AI, IoT, and data analytics.
 ## Project Purpose
@@ -6,12 +6,12 @@ This report was developed as part of the **New Venture Creation module** to eval
 - **Part A:** Global market feasibility and innovation potential  
 - **Part B:** In-depth entrepreneurial ecosystem analysis using the **Isenberg Model**, applied to **China** as the proposed country of launch
 # Report Structure
-### Part A – Feasibility Study
+### Part A: Feasibility Study
 This section highlights:
 - **Global Market Perspectives**: The scalability and international appeal of AgriHub  
 - **Innovation Highlights**: Unique digital features and competitive advantages  
 - **Leveraging Global Trends**: How AgriHub aligns with global agricultural and digital transformation trends
-### Part B – Entrepreneurial Ecosystem Analysis
+### Part B: Entrepreneurial Ecosystem Analysis
 Using the **Isenberg Model of Entrepreneurial Ecosystems**, this section evaluates:
 - China’s support structures for AgriTech ventures (e.g., funding, policy, incubation)
 - Market conditions, access to talent, and infrastructure
